@@ -1,4 +1,4 @@
-# 𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
+#Bct 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<a href="(https://t.me/https://t.me/+Q25anL0Ckuk5NzM1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://graph.org/file/2b3fd8f02390d7ae1cc70-939bbd55b6dc489b20.jpg"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
